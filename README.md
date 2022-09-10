@@ -1,3 +1,1 @@
-# patika-dev
-
-https://app.patika.dev/ademclk
+# https://app.patika.dev/ademclk
